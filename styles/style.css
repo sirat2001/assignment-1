@@ -1,0 +1,45 @@
+
+
+.font {
+  font-family: "Open Sans", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.banner{
+    margin: 40px;
+    padding: 20px;
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+    background-color: #b3d1c3;
+    border-radius: 5px;
+
+}
+.title-image{
+    /* width: 150px; */
+    /* height: 100px; */
+    display: 50%;
+    
+}
+.btn{
+    padding: 10px 20px ;
+    background-color:darkgreen;
+    font-size: 16px ;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-top: 15px;
+
+}
+.bangladesh2-0 {
+    color:dimgray;
+    margin-bottom: 15px;
+
+}
+    
