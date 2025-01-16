@@ -68,7 +68,7 @@
     padding: 10px;
     background-color:blanchedalmond;
     border-radius: 5px;
-    margin-right: 20px;
+    /* margin-right: 20px; */
 
 }
 .btn-digital{
@@ -104,4 +104,15 @@
     display: flex;
     justify-content: space-around;
     align-items:center;
+    margin-bottom: 20px;
+    
+}
+.yunus{
+    padding:15px 7px ;
+    background-color:whitesmoke;
+    border-radius: 5px;
+    margin-top: 20px;
+    background-image:url(/image/quote-bg.png)  ;
+    background-repeat: no-repeat;
+    
 }
