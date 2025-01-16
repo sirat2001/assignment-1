@@ -6,13 +6,13 @@
   font-style: normal;
   font-variation-settings:
     "wdth" 100;
+    margin: 40px;
 }
 *{
     margin: 0;
     padding: 0;
 }
 .banner{
-    margin: 40px;
     padding: 20px;
     display: flex;
     justify-content:space-between;
@@ -22,10 +22,8 @@
 
 }
 .title-image{
-    /* width: 150px; */
-    /* height: 100px; */
     display: 50%;
-    
+   
 }
 .btn{
     padding: 10px 20px ;
@@ -38,8 +36,72 @@
 
 }
 .bangladesh2-0 {
-    color:dimgray;
+    
     margin-bottom: 15px;
 
 }
-    
+.visson-of-future{
+    margin-top: 20px;
+
+}
+.text-color {
+    color:dimgray;
+
+
+}
+.headdign{
+    margin-bottom:10px;
+}
+.digital{
+    padding: 10px;
+    background-color: #b3d1c3;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+.green{
+    padding: 10px;
+    background-color:aquamarine ;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+.modern{
+    padding: 10px;
+    background-color:blanchedalmond;
+    border-radius: 5px;
+    margin-right: 20px;
+
+}
+.btn-digital{
+    color: white;
+    background-color: lightblue;
+    padding: 8px 16px ;
+    border-radius: 5px ;
+    margin-top: 8px;
+    font-size: 15px;
+    border: none;
+  
+
+}
+.btn-green{
+    color: white;
+    background-color:darkgreen;
+    padding: 8px 16px ;
+    border-radius: 5px ;
+    margin-top: 8px;
+    font-size: 15px;
+    border: none;
+}
+.btn-modern {
+    color: white;
+    background-color:aquamarine ;
+    padding: 8px 16px;
+    border-radius: 5px;
+    margin-top: 8px;
+    font-size: 15px;
+    border: none;
+}
+.prents-of-visionfuturebox{
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+}
